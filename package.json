@@ -1,0 +1,25 @@
+{
+  "name": "xcss-lang",
+  "version": "0.1.1",
+  "description": "XCSS interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belicfr/xcss.git"
+  },
+  "keywords": [
+    "xcss"
+  ],
+  "author": "belicfr",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/belicfr/xcss/issues"
+  },
+  "homepage": "https://github.com/belicfr/xcss#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
