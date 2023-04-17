@@ -1,6 +1,6 @@
 {
   "name": "xcss-lang",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "description": "XCSS interpreter",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/belicfr/xcss#readme",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "xcss-lang": "^0.2.2"
   }
 }
