@@ -21,7 +21,7 @@ class Interpreter {
     constructor(filepath) {
         this.#filepath = filepath;
 
-        this.#rgxString = /"(.*)"/g;
+        this.#rgxString = /(?:"[^"]*"|^[^"]*$)/g;
     };
 
     /**
